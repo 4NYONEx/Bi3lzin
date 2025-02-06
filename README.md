@@ -1,4 +1,4 @@
 # Sobre Mim
 - 👋 Ola eu sou @Bi3lzin
-- 👀 Eu gosto de ver coisas sobre games e progamação
-- 🎮 Eu jogo muito também gosto de jogar GTA V, Minecraft e Call of Duty
+- 👀 Sou um garoto de programa
+- 🎮 Meu Hobbie é jogar, ler as vezes, desenhar, assistir filmes, animes e demais.
