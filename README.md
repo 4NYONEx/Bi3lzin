@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC00FF&center=true&vCenter=true&width=435&lines=%E2%81%8E+%E2%8C%8A+Welcome+to+my+profile+%E2%8C%89+%E2%81%8E" alt="Typing SVG" /></a>
+  </a>
+</div>
+
 ## Hi, What's up? 👋 
 - 🔹 📘 Currently, I'm learning a little bit of everything about programming languages in college.
 - 🔹 💡 Software Engineering student passionate about solving problems and creating creative solutions.
@@ -33,9 +39,11 @@
 </div>
 
  ##
-
-<div>
-  <a href="https://www.instagram.com/_bielolivecaldas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-oliveira-315116351" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielolivcaldas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+<div style="text-align: center;" align="center">
+  <h1>Contact With Me!</h1>
 </div>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
